@@ -1,4 +1,7 @@
 # AWS-Launch-Scripts
+This repo contains scripts to automatically launch pentesting practice websites without the need to configure them by hand.
+
+## Basic Process
 - Select **services** > **compute** > **EC2**
 - Select **EC2 Dashboard** > **Create Instance** > **Launch Instance**
 - Select **Ubuntu Server 18.04 LTS (HVM), SSD Volume Type** > **Select**
