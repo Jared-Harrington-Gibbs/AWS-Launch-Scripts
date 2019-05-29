@@ -19,3 +19,4 @@ This repo contains scripts to automatically launch pentesting practice websites 
   - Chose/Create/Continue without a key pair
   - Select **Launch Instances**
 - Select the first link after **The following instance launches have been initiated:**
+- Select the instance > **Description** > **IPv4 Public IP**
